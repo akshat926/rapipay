@@ -1,3 +1,3 @@
 # rapipay
 this is my git repository
-author-akshat agarwak
+author-akshat agarwal
